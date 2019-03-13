@@ -1,0 +1,121 @@
+{
+  "modal": {
+    "success_text": "OK"
+  },
+  "login": {
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "error_title": "Lỗi đăngnhập",
+    "forgot": "Quên mật khẩu",
+    "submit": "Đăng nhập",
+    "sologan": "Nha sĩ là phải giàu"
+  },
+  "forgot_password": {
+    "email": "Nhập email để lấy lại mật khẩu",
+    "remember": "Bạn nhớ mật khẩu ?",
+    "login": "Đăng nhập",
+    "resend_email": "Bạn chưa nhập được email ?",
+    "resend": "Gửi lại",
+    "submit": "Lấy mật khẩu",
+    "screen_title": "Quên mật khẩu",
+    "success_title": "Gửi mật khẩu thành công",
+    "success_message": "Mật khẩu của bạn đã được gửi về email, vui lòng kiểm tra."
+  },
+  "systems": {
+    "netinfo": {
+      "offline": "Mất kết nối mạng",
+      "online": "Mạng đã hoạt động trở lại"
+    },
+    "browser": {
+      "toast_copy": "Toast copy",
+      "copy": "Copy",
+      "refresh": "Refresh",
+      "share": "Share"
+    },
+    "request": {
+      "api_method_not_found": "Api method_not_found",
+      "timeout": "Timeout"
+    }
+  },
+  "profile": {
+    "screen_title": "Hồ sơ"
+  },
+  "library": {
+    "screen_title": "Danh sách ảnh",
+    "back": "Trở lại"
+  },
+  "sidebar": {
+    "questions": "Câu hỏi tư vấn",
+    "notifications": "Thông báo",
+    "logout_link": "Đăng xuất"
+  },
+  "tabs": {
+    "home": "Trang chủ",
+    "question": "Câu hỏi tư vấn",
+    "schedule": "Lịch hẹn",
+    "service": "Dịch vụ",
+    "my_account": "My account",
+    "question_detail": "Consulting detail"
+  },
+  "home": {
+    "title": "CỐ VẤN"
+  },
+  "questions": {
+    "list_all": "Danh sách câu hỏi",
+    "view_all": "Xem tất cả",
+    "screen_title": "Danh sách câu hỏi",
+    "status": {
+      "all": "Tất cả",
+      "answered": "Đã trả lời",
+      "pending": "Chưa trả lời",
+      "expired": "Quá hạn"
+    },
+    "filters": {
+      "service": "Dịch vụ",
+      "service_all": "Tất cả",
+      "status": "Trạng thái",
+      "status_all": "Tất cả",
+      "calendar": "Loại lịch hẹn",
+      "calendar_all": "Tất cả"
+    },
+    "done": "Done",
+    "pending": "Pending"
+  },
+  "question_detail": {
+    "screen_title": "Chi tiết tư vấn",
+    "auto_consulting": "Nội dung tư vấn",
+    "reason_button_title": "Kết luận",
+    "content": "Nội dung tư vấn",
+    "picture": "Ảnh chụp",
+    "xray": "Ảnh X-Quang",
+    "answer_of_dentist": "Câu trả lời của bác sĩ"
+  },
+  "conclusion": {
+    "screen_title": "Kết luận tư vấn",
+    "error": "Lỗi gửi tư vấn",
+    "form": {
+      "result": "Kết quả",
+      "result_title": "Độ hô của bạn",
+      "time_expected": "Thời gian dự kiến",
+      "method": "Thủ thuật",
+      "difficult": "Độ khó",
+      "submit": "Gửi phản hồi",
+      "preview": "Trước & sau",
+      "protrusion": "Độ hô của răng"
+    },
+    "dialog_success": {
+      "title": "Gửi phản hồi thành công",
+      "content": "Chúng tôi sẽ gửi tư vấn của bạn đến khách hàng"
+    }
+  },
+  "schedule_list": {
+    "title": "Danh sách đặt lịch"
+  },
+  "notifications": {
+    "screen_title": "Danh sách thông báo",
+    "delete_all": "Xóa hết",
+    "empty_text": "Bạn chưa có thông báo nào",
+    "message1": "Khi bạn đặt câu hỏi tư vấn hoặc đặt lịch,",
+    "message2": "kết quả của bạn sẽ được thông báo ở đây."
+  }
+}

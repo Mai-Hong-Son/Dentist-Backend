@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">urSmiles Dentist</string>
+
+    <string name="facebook_app_id">409215309558000</string>
+    <string name="fb_login_protocol_scheme">fb409215309558000</string>
+</resources>

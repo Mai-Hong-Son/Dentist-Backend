@@ -1,0 +1,9 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "no-underscore-dangle": "off",
+    "global-require": "off",
+    "no-unused-expressions": "off",
+    "camelcase": "off"
+  }
+}

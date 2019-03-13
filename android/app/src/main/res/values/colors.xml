@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="splashBackground" type="color">#FE702E</item>
+    <item name="colorPrimary" type="color">#ffffff</item>
+    <item name="colorSecondary" type="color">#ffffff</item>
+    <item name="colorAccent" type="color">#ffffff</item>
+</resources>

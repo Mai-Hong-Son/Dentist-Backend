@@ -1,0 +1,152 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ActiveCell Component Test ActiveCell component 1`] = `
+<div
+  className="row cell-container"
+>
+  <i
+    className="col-lg-3 material-icons active-icon"
+  >
+    fiber_manual_record
+  </i>
+  <div
+    className="col-lg-6"
+  />
+  <div
+    className="col-lg-3"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons"
+    >
+      keyboard_arrow_down
+    </i>
+  </div>
+</div>
+`;
+
+exports[`Testing ActiveCell Component Test ActiveCell component 2`] = `
+<div
+  className="row cell-container"
+>
+  <i
+    className="col-lg-3 material-icons active-icon"
+  >
+    fiber_manual_record
+  </i>
+  <div
+    className="col-lg-6"
+  />
+  <div
+    className="col-lg-3"
+    onClick={[Function]}
+  >
+    <i
+      className="material-icons"
+    >
+      keyboard_arrow_down
+    </i>
+  </div>
+</div>
+`;
+
+exports[`Testing ActiveCell Component Test CreateUser component 1`] = `
+<div>
+  <div
+    className="create-user-button"
+    style={
+      Object {
+        "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+        "backgroundColor": "transparent",
+        "borderRadius": "50%",
+        "boxShadow": "0 3px 10px rgba(0, 0, 0, 0.16),
+               0 3px 10px rgba(0, 0, 0, 0.23)",
+        "boxSizing": "border-box",
+        "color": "rgba(0, 0, 0, 0.87)",
+        "display": "inline-block",
+        "fontFamily": "Roboto, sans-serif",
+        "muiPrepared": true,
+        "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+      }
+    }
+  >
+    <button
+      disabled={false}
+      href={undefined}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchStart={[Function]}
+      onTouchTap={[Function]}
+      style={
+        Object {
+          "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+          "backgroundColor": "red",
+          "border": 10,
+          "borderRadius": "50%",
+          "boxSizing": "border-box",
+          "cursor": "pointer",
+          "display": "inline-block",
+          "fontFamily": "Roboto, sans-serif",
+          "fontSize": "inherit",
+          "fontWeight": "inherit",
+          "height": 56,
+          "margin": 0,
+          "muiPrepared": true,
+          "outline": "none",
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "relative",
+          "textAlign": "center",
+          "textDecoration": "none",
+          "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+          "verticalAlign": "bottom",
+          "width": 56,
+          "zIndex": 1,
+        }
+      }
+      tabIndex={0}
+      type="button"
+    >
+      <div
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchStart={[Function]}
+      >
+        <div
+          style={
+            Object {
+              "muiPrepared": true,
+              "top": 0,
+              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+            }
+          }
+        >
+          <i
+            className="material-icons"
+            style={
+              Object {
+                "color": "#ffffff",
+                "fill": "#ffffff",
+                "height": 56,
+                "lineHeight": "56px",
+              }
+            }
+          >
+            add
+          </i>
+        </div>
+      </div>
+    </button>
+  </div>
+</div>
+`;
